@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephenMetcalfe-Prodigy
+- 👋 Hi, I’m Stephen.
 - 👀 I’m interested in development and open source projects as a whole.
 - 🌱 I’m currently learning Python and Ruby on Rails.
 
